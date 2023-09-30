@@ -1,0 +1,11 @@
+/*Muhammed Saffet Coskun 8955912*/
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(29, 172, 182);
+}
+h2{
+    color: #f02;
+    font-size: 2em;
+}
