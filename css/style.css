@@ -1,11 +1,49 @@
 /*Muhammed Saffet Coskun 8955912*/
-body{
-    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+body {
+    font: normal italic bold 12px/1.5 Arial, Helvetica, sans-serif;
     width: 100vw;
     height: 100vh;
-    background-color: rgb(29, 172, 182);
+    background-color: hsla(275, 66%, 35%, 0.3);
 }
-h2{
-    color: #f02;
-    font-size: 2em;
+h2 {
+    color: #308;
+    font-size: 1.5em;
+}
+main{
+    float: left;
+    width: 60vw;
+    height: 60vh;
+    background-color: teal;
+}
+
+aside {
+    float: right;
+    width: 23vw;
+    background-color: orangered;
+    height: 60vh;
+}
+footer{
+    clear: both;
+    background-color: powderblue;
+}
+header{
+    background-color: blueviolet;
+}
+.structural{
+    padding: 10px;
+    margin: 10px;
+    border: 2px dashed orange;
+    border-width: 2px;
+}
+#para1{
+    color: rgb(0, 255, 42);
+}
+#para2{
+    color: rgb(255, 23, 55);
+}
+a:hover{
+    color: #699;
+}
+footer p{
+    font-size: 0.75em;
 }
